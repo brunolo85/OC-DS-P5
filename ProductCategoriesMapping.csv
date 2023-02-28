@@ -1,0 +1,74 @@
+product_category_name_english;product_category_level_1;product_category_level_0
+art;culture;culture & tech
+musical_instruments;culture;culture & tech
+books_general_interest;culture;culture & tech
+books_technical;culture;culture & tech
+music;culture;culture & tech
+books_imported;culture;culture & tech
+dvds_blu_ray;culture;culture & tech
+arts_and_craftmanship;culture;culture & tech
+cine_photo;culture;culture & tech
+cds_dvds_musicals;culture;culture & tech
+stationery;culture;culture & tech
+sports_leisure;sport;culture & tech
+computers_accessories;tech;culture & tech
+electronics;tech;culture & tech
+telephony;tech;culture & tech
+computers;tech;culture & tech
+consoles_games;tech;culture & tech
+fixed_telephony;tech;culture & tech
+audio;tech;culture & tech
+tablets_printing_image;tech;culture & tech
+pc_gamer;tech;culture & tech
+baby;childhood;daylife
+toys;childhood;daylife
+diapers_and_hygiene;childhood;daylife
+drinks;food;daylife
+food_drink;food;daylife
+food;food;daylife
+market_place;food;daylife
+pet_shop;pet;daylife
+fashion_shoes;fashion;fashion & gifts
+fashion_bags_accessories;fashion;fashion & gifts
+fashion_underwear_beach;fashion;fashion & gifts
+fashion_male_clothing;fashion;fashion & gifts
+fashio_female_clothing;fashion;fashion & gifts
+fashion_sport;fashion;fashion & gifts
+fashion_childrens_clothes;fashion;fashion & gifts
+perfumery;gifts;fashion & gifts
+cool_stuff;gifts;fashion & gifts
+health_beauty;gifts;fashion & gifts
+watches_gifts;gifts;fashion & gifts
+party_supplies;gifts;fashion & gifts
+christmas_supplies;gifts;fashion & gifts
+flowers;gifts;fashion & gifts
+auto;auto;home & works
+housewares;home;home & works
+furniture_decor;home;home & works
+home_appliances;home;home & works
+bed_bath_table;home;home & works
+luggage_accessories;home;home & works
+garden_tools;home;home & works
+office_furniture;home;home & works
+furniture_living_room;home;home & works
+kitchen_dining_laundry_garden_furniture;home;home & works
+home_appliances_2;home;home & works
+la_cuisine;home;home & works
+home_confort;home;home & works
+small_appliances_home_oven_and_coffee;home;home & works
+furniture_bedroom;home;home & works
+home_comfort_2;home;home & works
+portable_kitchen_and_food_preparation_equipment;home;home & works
+furniture_mattress_and_upholstery;home;home & works
+small_appliances;home;home & works
+construction_tools_safety;works;home & works
+home_construction;works;home & works
+construction_tools_construction;works;home & works
+signaling_and_security;works;home & works
+air_conditioning;works;home & works
+costruction_tools_tools;works;home & works
+construction_tools_lights;works;home & works
+costruction_tools_garden;works;home & works
+security_and_services;works;home & works
+agro_industry_and_commerce;business;other
+industry_commerce_and_business;business;other
